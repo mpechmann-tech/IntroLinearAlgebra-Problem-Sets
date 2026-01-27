@@ -1,6 +1,7 @@
 /* Base styles for readability */
 body {
   font-family: Arial, sans-serif;
+  font-size: 16px;
   line-height: 1.6;
   padding: 20px;
   color: #000;
